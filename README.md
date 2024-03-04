@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 # Anti-Spyware Tool
 
-https://www.oo-software.com/de/shutup10
+(O&O Shutup10)[https://www.oo-software.com/de/shutup10]
 
 Kill Spyware and unnecesary bloat in Windows using this utility
 
@@ -59,3 +59,6 @@ ________________________________________________________________________________
 # Windows 10 Functionality and Patches for Windows 11
 
 [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
+
+![7cdf0ca053358108](https://github.com/martinjrrr/windows-tricks/assets/91160845/47a6be46-808c-4ead-bcf1-5fd76a711728)
+
