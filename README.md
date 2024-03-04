@@ -27,3 +27,10 @@ Click On The Accesibility Button And Type This Command When The CMD Window Lauch
 
 ITS POSSIBLE THAT THIS COMMAND CORRUPTS THE WINDOWS FILESYSTEM, KNOW THE POSSIBLE CONSEQUENCES BEFOREHAND 
 ________________________________________________________________________________
+# Anti-Spyware Tool
+
+https://www.oo-software.com/de/shutup10
+
+Kill Spyware and unnecesary bloat in Windows using this utility
+
+make sure that you read trough your selections, this tool can temporarily block key system functions / settings
