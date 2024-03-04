@@ -23,7 +23,7 @@ Click On The Accesibility Button And Type This Command When The CMD Window Lauch
 
 `net user (User) *` 
 
-## If you try to mount the Windows drive and get an error of hibernation just use the command:
+### If you try to mount the Windows drive and get an error of hibernation just use the command:
 
 `sudo ntfsfix /dev/sdXY`
 
