@@ -78,3 +78,10 @@ Valinet's ExplorerPatcher restores lost Windows 10 functionalities
 
 ![7cdf0ca053358108](https://github.com/martinjrrr/windows-tricks/assets/91160845/47a6be46-808c-4ead-bcf1-5fd76a711728)
 
+
+# Windows 10 / 11 Search Modification 
+
+[Beauty Search](https://github.com/krlvm/BeautySearch)
+
+The Beautysearch utility offers many customization options, but most importantly one of it's positive side-effects is the deactivation of the intergrated bing websearch in the Startmenu
+
