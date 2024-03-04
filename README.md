@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 # Anti-Spyware Tool
 
-(O&O Shutup10)[https://www.oo-software.com/de/shutup10]
+[O&O Shutup10](https://www.oo-software.com/de/shutup10)
 
 Kill Spyware and unnecesary bloat in Windows using this utility
 
