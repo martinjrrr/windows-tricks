@@ -30,11 +30,15 @@ Click On The Accesibility Button And Type This Command When The CMD Window Lauch
 ITS POSSIBLE THAT THIS COMMAND CORRUPTS THE WINDOWS FILESYSTEM, KNOW THE POSSIBLE CONSEQUENCES BEFOREHAND 
 ________________________________________________________________________________
 
-Windows 11 Local user - bypass Microsoft Account requirement
+# Windows 11 Local user - bypass Microsoft Account requirement
 
+[Rufus](https://rufus.ie/de/)
 
+![screenshot2_en](https://github.com/martinjrrr/windows-tricks/assets/91160845/82d2d0ae-7bd3-4c06-9d8a-7f0fd438afd0)
 
+Use the Rufus image writing tool to create bootable USB drives
 
+If you feed a Windows 11 22H2 image or later into Rufus you'll get the option to disable the Microsoft Account requirement as well as the TPM 2.0 and Secureboot requirement, if you do not want to use a Microsoft account or you want to use older Hardware that does not support Secureboot or have a Trusted Platform Module (TPM) these options are a must for your new Windows 11 install USB-Stick.
 
 
 
