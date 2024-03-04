@@ -1,7 +1,5 @@
 # Windows Tricks
-Guide on certain things Windows
-
-anti spy, debloating, customization and legacy functions
+Guide on certain things Windows, removing bloat ware, freeing the system of microsofts spyware and restoring lost functionalities
 
 ![Wondows-11-Start-661424496](https://github.com/martinjrrr/windows-tricks/assets/91160845/ba9bde7e-cc04-427b-af04-5b11bc566f03)
 
