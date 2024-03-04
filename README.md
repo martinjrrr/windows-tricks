@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 [Rufus](https://rufus.ie/de/)
 
-![screenshot2_en](https://github.com/martinjrrr/windows-tricks/assets/91160845/82d2d0ae-7bd3-4c06-9d8a-7f0fd438afd0)
+<img src="https://github.com/martinjrrr/windows-tricks/assets/91160845/82d2d0ae-7bd3-4c06-9d8a-7f0fd438afd0" width=50% height=50%>
 
 Use the Rufus image writing tool to create bootable USB drives
 
