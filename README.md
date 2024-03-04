@@ -1,4 +1,4 @@
-# Windows Tricks
+# Windows Setup
 Guide on certain things Windows, removing bloat ware, freeing the system of microsofts spyware and restoring lost functionalities
 
 ![Wondows-11-Start-661424496](https://github.com/martinjrrr/windows-tricks/assets/91160845/ba9bde7e-cc04-427b-af04-5b11bc566f03)
@@ -29,6 +29,16 @@ Click On The Accesibility Button And Type This Command When The CMD Window Lauch
 
 ITS POSSIBLE THAT THIS COMMAND CORRUPTS THE WINDOWS FILESYSTEM, KNOW THE POSSIBLE CONSEQUENCES BEFOREHAND 
 ________________________________________________________________________________
+
+Windows 11 Local user - bypass Microsoft Account requirement
+
+
+
+
+
+
+
+_______________________________________________________________________________
 
 # Anti-Spyware Tool
 
