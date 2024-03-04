@@ -20,4 +20,10 @@ reboot
 Click On The Accesibility Button And Type This Command When The CMD Window Lauches
 
 `net user (User) *` 
+
+## If you try to mount the Windows drive and get a error of hibernation just use the command:
+
+`sudo ntfsfix /dev/sdXY`
+
+ITS POSSIBLE THAT THIS COMMAND CORRUPTS THE WINDOWS FILESYSTEM, KNOW THE POSSIBLE CONSEQUENCES BEFOREHAND 
 ________________________________________________________________________________
