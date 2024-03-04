@@ -54,3 +54,8 @@ ________________________________________________________________________________
     127.0.0.1 scorecardresearch.com
     127.0.0.1 edge.microsoft.com
     127.0.0.1 data.msn.com
+
+
+# Windows 10 Functionality and Patches for Windows 11
+
+[https://github.com/valinet/ExplorerPatcher](Explorer Patcher)
