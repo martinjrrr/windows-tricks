@@ -58,4 +58,4 @@ ________________________________________________________________________________
 
 # Windows 10 Functionality and Patches for Windows 11
 
-[https://github.com/valinet/ExplorerPatcher](Explorer Patcher)
+[Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
