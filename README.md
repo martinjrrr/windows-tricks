@@ -3,6 +3,7 @@ Guide on certain things Windows
 
 
 _______________________________________________________________________________
+
 # Cracking a windows password / bypassing the login screen
 
 Boot Into Your Flash Drive And Type These Commands
@@ -27,6 +28,7 @@ Click On The Accesibility Button And Type This Command When The CMD Window Lauch
 
 ITS POSSIBLE THAT THIS COMMAND CORRUPTS THE WINDOWS FILESYSTEM, KNOW THE POSSIBLE CONSEQUENCES BEFOREHAND 
 ________________________________________________________________________________
+
 # Anti-Spyware Tool
 
 https://www.oo-software.com/de/shutup10
@@ -34,3 +36,20 @@ https://www.oo-software.com/de/shutup10
 Kill Spyware and unnecesary bloat in Windows using this utility
 
 make sure that you read trough your selections, this tool can temporarily block key system functions / settings
+
+________________________________________________________________________________
+
+# Host file sinkholing Spyware
+
+    127.0.0.1 localhost
+    ::1 localhost
+    127.0.0.1 data.microsoft.com
+    127.0.0.1 msftconnecttest.com
+    127.0.0.1 azureedge.net
+    127.0.0.1 activity.windows.com
+    127.0.0.1 bingapis.com
+    127.0.0.1 msedge.net
+    127.0.0.1 assets.msn.com
+    127.0.0.1 scorecardresearch.com
+    127.0.0.1 edge.microsoft.com
+    127.0.0.1 data.msn.com
