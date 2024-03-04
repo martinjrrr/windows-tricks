@@ -58,6 +58,8 @@ ________________________________________________________________________________
 
 # Windows 10 Functionality and Patches for Windows 11
 
+Valinet's ExplorerPatcher restores lost Windows 10 functionalities
+
 [Explorer Patcher](https://github.com/valinet/ExplorerPatcher)
 
 ![7cdf0ca053358108](https://github.com/martinjrrr/windows-tricks/assets/91160845/47a6be46-808c-4ead-bcf1-5fd76a711728)
