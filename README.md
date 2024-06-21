@@ -39,6 +39,33 @@ ________________________________________________________________________________
 Use the Rufus image writing tool to create bootable USB drives
 
 If you feed a Windows 11 22H2 image or later into Rufus you'll get the option to disable the Microsoft Account requirement as well as the TPM 2.0 and Secureboot requirement, if you do not want to use a Microsoft account or you want to use older Hardware that does not support Secureboot or have a Trusted Platform Module (TPM) these options are a must for your new Windows 11 install USB-Stick.
+________________________________________________________________________________
+
+
+# Fixing Windows' Missing bootloader: 
+
+
+Boot the Computer into a windows 8-11 Installation media:
+Press Shift + F10 on the first screen
+
+run the following commands:
+
+        diskpart
+        list disk 
+        list partition
+        select partition - note: select the windows partition
+        
+        shrink desired=100 
+        create partition efi size=100 
+        format quick fs=fat32 
+        assign letter=s
+        list partition
+        list volume - note: Note the volume letter where windows is stored (Most of the time it is C)
+        exit
+        
+        bcdboot C:\windows /s S:
+        
+        Reboot
 
 
 
@@ -84,4 +111,6 @@ Valinet's ExplorerPatcher restores lost Windows 10 functionalities
 [Beauty Search](https://github.com/krlvm/BeautySearch)
 
 The Beautysearch utility offers many customization options, but most importantly one of it's positive side-effects is the deactivation of the intergrated bing websearch in the Startmenu
+
+
 
